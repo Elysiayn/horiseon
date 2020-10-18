@@ -1,4 +1,4 @@
-# HORISEON Social Solution Services, Inc.
+# Horiseon Social Solution Services, Inc.
 
 ## Services provided:
 
