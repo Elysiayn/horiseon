@@ -9,4 +9,4 @@
 ## Come visit us below at Horiseon
 [Horiseon](https://elysiayn.github.io/horiseon/)
 
-![](images/screenshot.png)
+
